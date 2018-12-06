@@ -1,0 +1,9 @@
+<link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link href="assets/bootstrap/css/bootstrap.grid.css" rel="stylesheet">
+<link href="assets/bootstrap/css/bootstrap.css" rel="stylesheet">
+<link href="assets/bootstrap/fonts/fontawesome-all.css" rel="stylesheet">		
+<link href="assets/main.css" rel="stylesheet">
+<script type="text/javascript" src="assets/lib.js"></script>
+<script type="text/javascript" src="assets/jquery.min.js"></script>
+<script type="text/javascript" src="assets/bootstrap/js/popper.js"></script>
+<script type="text/javascript" src="assets/bootstrap/js/bootstrap.js"></script>
